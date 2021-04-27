@@ -1,5 +1,17 @@
 # functions-scoping-program-flow-debrief
 
+##Write a function that takes an Array of strings an prints each string out one per line. For example the list ["Hello", "World", "in", "a", "frame"] gets printed as:
+
+````
+Hello 
+World
+I
+Am
+A
+String
+````
+
+
 
 Part 1 - Fork and Clone the project
 Begin by forking this project into a personal repository.
