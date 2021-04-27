@@ -1,6 +1,6 @@
 # functions-scoping-program-flow-debrief
 
-##
+
 Part 1 - Fork and Clone the project
 Begin by forking this project into a personal repository.
 To do this, click the Fork button located at the top right of this page.
@@ -14,7 +14,7 @@ Type git clone followed by the URL you copied from Github
 cd into the repository for this assignment that you have just cloned.
 Open the newly cloned project in a code editor (ex. Visual Studio Code).
 
-##
+
 Part 2 - Edit the cloned project
 from a text editor (i.e. - Visual Studio Code, Notepad ++, etc...), select:
 File > Add Folder to WorkSpace
