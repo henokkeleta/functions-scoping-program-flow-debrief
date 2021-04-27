@@ -1,6 +1,6 @@
 # functions-scoping-program-flow-debrief
 
-## Write a function that takes an Array of strings an prints each string out one per line. For example the list ["Hello", "World", "I", "Am", "A", "String"] gets printed as:
+### Write a function that takes an Array of strings an prints each string out one per line. For example the list ["Hello", "World", "I", "Am", "A", "String"] gets printed as:
 
 ````
 Hello 
@@ -11,6 +11,7 @@ A
 String
 ````
 
+### Write a function that checks whether an element occurs in a list. For example, 
 
 
 Part 1 - Fork and Clone the project
