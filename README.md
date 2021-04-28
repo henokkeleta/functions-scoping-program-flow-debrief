@@ -34,7 +34,7 @@ File > Add Folder to WorkSpace
 Select the directory you use to store your projects (ex. dev directory)
 From the text editor,in the directory you use to store your projects (ex. dev directory), locate the newly cloned project folder.
 Expand the project from the project explorer (may just be called explorer)
-Modify the index.html and style.css (if needed) to complete the assignment.
+Complete the exercises in the main.js file.
 
 Part 3 - Pushing new changes to repository
 From a terminal navigate to the root directory of the cloned project.
