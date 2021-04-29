@@ -10,8 +10,7 @@ Am
 A
 String
 ````
-
-### Write a function that checks whether an element occurs in a list. For example, 
+ 
 
 
 Part 1 - Fork and Clone the project
