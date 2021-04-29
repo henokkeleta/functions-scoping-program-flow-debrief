@@ -11,8 +11,11 @@
     M
     S
 ````
-#### Resources: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
-####            https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+
+#### Resources: 
+#### charAt: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
+#### For of Loop: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+#### Functions: https://www.w3schools.com/js/js_functions.asp
  
 
 ````

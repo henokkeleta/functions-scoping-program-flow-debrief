@@ -13,8 +13,10 @@
     S
     
 */ 
-//  Resources: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
-//             https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+//  Resources: charAt: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
+//             for...of statement: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+//             functions: https://www.w3schools.com/js/js_functions.asp
+
 
 //  Write your code below:
 //  Use console.log() to check your results in the browser
